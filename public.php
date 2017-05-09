@@ -198,7 +198,7 @@ var options = 'name1='+ name + '&email1='+ email + '&contact1='+ contact + '&use
 options = {
 
     "key": "rzp_test_dAcjUDUyXXheb3",
-	//rzp_live_Z3kIG4GPCGmS4M LIVE KEY
+	
     "amount": Amount * 100, // 2000 paise = INR 20
     "name": "HandaKaFunda",
     //"description": "Purchase Description",
